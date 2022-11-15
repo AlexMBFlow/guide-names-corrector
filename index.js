@@ -14,7 +14,6 @@ const stringCorrector = (text) => {
 
 stringCorrector("Speak up, don't be shy.mp4.webm");
 
-  
-  //stringCorrector("Speak up, don't be shy.mp4.webm");
-  //Result: speak_up_dont_be_shy 
+//stringCorrector("Speak up, don't be shy.mp4.webm");
+//Result: speak_up_dont_be_shy 
   
