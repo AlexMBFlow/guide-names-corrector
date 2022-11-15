@@ -11,5 +11,6 @@ const stringCorrector = (text) => {
     console.log(result);
   };
   
-  stringCorrector("Speak up, don't be shy.webm");
+  //stringCorrector("Speak up, don't be shy.webm");
+  //Result: speak_up_dont_be_shy 
   
